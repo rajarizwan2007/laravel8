@@ -1,0 +1,14 @@
+php artisan test --env=testing
+
+2,921,6.27
+
+
+ 	Reference Number:	PK-012-201016-202511911-681839-520 	 
+ 	Transfer From:	CA Payroll Account,01165822701,PKR 	 
+ 	Beneficiary Details:	Tariq Absi nxb,01703659801,PKR	 
+ 	Beneficiary Bank Name:	STANDARD CHARTERED BANK	 
+ 	Transfer Amount:	PKR  10,020.00 	 
+ 	Debit Amount:	PKR  10,020.00 	 
+ 	Transfer Reference:	Online Fund Transfer
+ 
+ 	When To Transfer? (DD/MM/YYYY):	16/10/2020
